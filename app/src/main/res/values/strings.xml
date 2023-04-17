@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ItmoHack2023</string>
+    <string name="tracking_server_url">http://164.92.210.100:8080</string>
+</resources>
